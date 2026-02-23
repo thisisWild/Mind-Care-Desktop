@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|c:\\users\\angan\\documents\\dissertation\\001429608_comp 1682_prototype\\mind care\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\suicide hotline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:suicide hotline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|c:\\users\\angan\\documents\\dissertation\\001429608_comp 1682_prototype\\mind care\\ai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:ai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\projectspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:projectspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\mood tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:mood tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\resources\\5 ways to observe mental health awareness month - my soul balm.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:resources\\5 ways to observe mental health awareness month - my soul balm.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\mood tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:mood tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\projectspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:projectspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\mood tracking.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:mood tracking.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\projectspace.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E37A12E-9A76-40AB-9726-3CAC30775D43}|Mind care.csproj|solutionrelative:projectspace.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\AI.cs",
+              "RelativeDocumentMoniker": "AI.cs",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\AI.cs [Design]",
+              "RelativeToolTip": "AI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:38:05.85Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:15:47.451Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "projectspace.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\projectspace.cs",
+              "RelativeDocumentMoniker": "projectspace.cs",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\projectspace.cs [Design]",
+              "RelativeToolTip": "projectspace.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T22:47:52.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AI.cs",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\AI.cs",
+              "RelativeDocumentMoniker": "AI.cs",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\AI.cs",
+              "RelativeToolTip": "AI.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwFoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:53:14.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Suicide hotline.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Suicide hotline.cs",
+              "RelativeDocumentMoniker": "Suicide hotline.cs",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Suicide hotline.cs [Design]",
+              "RelativeToolTip": "Suicide hotline.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T22:47:41.348Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Register.cs [Design]",
+              "RelativeToolTip": "Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:18:06.052Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Analytics.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Analytics.cs",
+              "RelativeDocumentMoniker": "Analytics.cs",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Analytics.cs [Design]",
+              "RelativeToolTip": "Analytics.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:53:24.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mood tracking.cs",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Mood tracking.cs",
+              "RelativeDocumentMoniker": "Mood tracking.cs",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Mood tracking.cs",
+              "RelativeToolTip": "Mood tracking.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:44:46.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AI.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\AI.Designer.cs",
+              "RelativeDocumentMoniker": "AI.Designer.cs",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\AI.Designer.cs",
+              "RelativeToolTip": "AI.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T12:49:49.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "5 Ways to Observe Mental Health Awareness Month - My Soul Balm.jpg -  [English (United States)] - Bitmap [300x300, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Resources\\5 Ways to Observe Mental Health Awareness Month - My Soul Balm.jpg",
+              "RelativeDocumentMoniker": "Resources\\5 Ways to Observe Mental Health Awareness Month - My Soul Balm.jpg",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Resources\\5 Ways to Observe Mental Health Awareness Month - My Soul Balm.jpg -  [English (United States)] - Bitmap [300x300, 24 bit, JPG]",
+              "RelativeToolTip": "Resources\\5 Ways to Observe Mental Health Awareness Month - My Soul Balm.jpg -  [English (United States)] - Bitmap [300x300, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-19T13:52:51.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mood tracking.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Mood tracking.cs",
+              "RelativeDocumentMoniker": "Mood tracking.cs",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Mood tracking.cs [Design]",
+              "RelativeToolTip": "Mood tracking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:47:38.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "projectspace.cs",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\projectspace.cs",
+              "RelativeDocumentMoniker": "projectspace.cs",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\projectspace.cs",
+              "RelativeToolTip": "projectspace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:21:03.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:37:02.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Chat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Chat.cs",
+              "RelativeDocumentMoniker": "Chat.cs",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Mind care\\Chat.cs [Design]",
+              "RelativeToolTip": "Mind care\\Chat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T22:48:05.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Chat.cs",
+              "RelativeDocumentMoniker": "Chat.cs",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Chat.cs",
+              "RelativeToolTip": "Chat.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wFsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:21:57.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Register.cs",
+              "RelativeToolTip": "Register.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAD4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:18:08.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Mood tracking.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Mood tracking.Designer.cs",
+              "RelativeDocumentMoniker": "Mood tracking.Designer.cs",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\Mood tracking.Designer.cs",
+              "RelativeToolTip": "Mood tracking.Designer.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAowHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:57:45.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "projectspace.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\projectspace.Designer.cs",
+              "RelativeDocumentMoniker": "projectspace.Designer.cs",
+              "ToolTip": "C:\\Users\\angan\\Documents\\Dissertation\\001429608_COMP 1682_PROTOTYPE\\Mind care\\projectspace.Designer.cs",
+              "RelativeToolTip": "projectspace.Designer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAiwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:00:51.735Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
