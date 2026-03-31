@@ -49,52 +49,58 @@ namespace Mind_care
             }
         }
 
-        //ApI request and response
+        // Method to call Gemini API and get the AI response
         public async Task<string> GetAIResponseAsync(string question)
         {
-            // HTTP client to send the request
-            var client = new HttpClient();
-            client.BaseAddress = new Uri("https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent");
-
-            //Defing the API request
+            // Prepare JSON payload
             var requestData = new
             {
                 contents = new[]
                 {
-                    new
-                {
+            new
+            {
+                role = "user",
                 parts = new[]
                 {
-                    new
+                    new { text = $"You are a healthcare assistant. Answer: \"{question}\"" }
+                }
+            }
+        }
+            };
+
+            string json = JsonConvert.SerializeObject(requestData);
+
+            using (HttpClient client = new HttpClient())
+            {
+                client.BaseAddress = new Uri("https://generativelanguage.googleapis.com/");
+
+                // Google API key in the header
+                client.DefaultRequestHeaders.Add("x-goog-api-key", "AIzaSyBwgETerHkz9_f2EYeSN6caUbVGFCqT2zA");
+
+                using (var content = new StringContent(json, Encoding.UTF8, "application/json"))
+                {
+                    // Send POST request to the Gemini API
+                    HttpResponseMessage response = await client.PostAsync(
+                        "v1beta/models/gemini-2.5-flash:generateContent",
+                        content
+                    );
+
+                    string responseBody = await response.Content.ReadAsStringAsync();
+
+                    if (response.IsSuccessStatusCode)
                     {
-                        //API role and simple instruction
-                        text = $"You are a healthcare assistant. Provide a medically accurate and easy-to-understand response to this query: \"{question}\". Your response should be structured in a very brief and conversative manner, including possible causes, symptoms, and recommended actions such as home remedies or when to seek medical attention at house of therapy."
+                        var parsed = JObject.Parse(responseBody);
+                        return parsed["candidates"]?[0]?["content"]?["parts"]?[0]?["text"]?.ToString()
+                               ?? "No response received.";
+                    }
+                    else
+                    {
+                        return $"Error: {response.StatusCode}\n{responseBody}";
                     }
                 }
             }
-                }
-            };
-            // convertiing the request into json format
-            var content = new StringContent(JsonConvert.SerializeObject(requestData), Encoding.UTF8, "application/json");
-
-            // Send the request to the AI API using the API key
-            var response = await client.PostAsync($"?key=AIzaSyBCpiWtuAwcY_KIpoupl1ad4X8CqSAhddg", content);
-
-            // checking is OperationTrue
-            if (response.IsSuccessStatusCode)
-            {
-                var jsonResponse = await response.Content.ReadAsStringAsync();
-                var parsedResponse = JObject.Parse(jsonResponse);
-
-                var text = parsedResponse["candidates"]?[0]?["content"]?["parts"]?[0]?["text"]?.ToString();
-
-                return text ?? "I'm unable to assist at the moment. Please contact us at hooftherapy@gmail.com.";
-            }
-            else
-            {
-                return $"Error: {response.StatusCode} - {response.ReasonPhrase}";
-            }
         }
+        
 
         private void Homebtn_Click(object sender, EventArgs e)
         {
