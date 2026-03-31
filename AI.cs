@@ -1,18 +1,16 @@
-﻿using System;
-using System.Drawing;
+﻿using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using System;
 using System.Net.Http;
-using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
-using static System.Net.WebRequestMethods;
 
 namespace Mind_care
 {
     public partial class AI : Form
     {
+        private HttpContent content;
 
         public AI()
         {
@@ -21,15 +19,14 @@ namespace Mind_care
 
         private async void btnAsk_Click_1(object sender, EventArgs e)
         {
-            btnAsk.Enabled = false; // Disable button during request
-            richTextRes.Text = "Generating Results Please Wait..."; // waiting to load for response
+            btnAsk.Enabled = false;
+            richTextRes.Text = "Generating Results, Please Wait...";
 
             string userQuestion = txtQuestion.Text;
 
-            //OperationFalse
             if (string.IsNullOrWhiteSpace(userQuestion))
             {
-                richTextRes.Text = "It seems you have missed to input or ask something, I'm a programmed health and therapy assistant so please enter your health question or anything about health you would want us to discuss today!.";
+                richTextRes.Text = "Please enter your health question first!";
                 btnAsk.Enabled = true;
                 return;
             }
@@ -37,7 +34,7 @@ namespace Mind_care
             try
             {
                 string result = await GetAIResponseAsync(userQuestion);
-                richTextRes.Text = result; // Show API response
+                richTextRes.Text = result;
             }
             catch (Exception ex)
             {
@@ -49,51 +46,59 @@ namespace Mind_care
             }
         }
 
-        //ApI request and response
+        // Method to call Google Gemini API and get the AI response
         public async Task<string> GetAIResponseAsync(string question)
         {
-            // HTTP client to send the request
-            var client = new HttpClient();
-            client.BaseAddress = new Uri("https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent");
-
-            //Defing the API request
+            // Preparing JSON payload 
             var requestData = new
             {
                 contents = new[]
                 {
-                    new
-                {
+            new
+            {
+                role = "user",
                 parts = new[]
                 {
-                    new
+                    new { text = $"You are a healthcare assistant expert only. Answer: \"{question}\"" }
+                }
+            }
+        }
+            };
+
+            string json = JsonConvert.SerializeObject(requestData);
+
+            using (HttpClient client = new HttpClient())
+            {
+                client.BaseAddress = new Uri("https://generativelanguage.googleapis.com/");
+                client.DefaultRequestHeaders.Add("x-goog-api-key", "AIzaSyBwgETerHkz9_f2EYeSN6caUbVGFCqT2zA"); //added new key
+
+                using (var content = new StringContent(json, Encoding.UTF8, "application/json"))
+                {
+                    // Send POST request to the Gemini API
+                    HttpResponseMessage response = await client.PostAsync(
+                        "v1beta/models/gemini-2.5-flash:generateContent",
+                        content
+                    );
+
+                    string responseBody = await response.Content.ReadAsStringAsync();
+
+                    if (response.IsSuccessStatusCode)
                     {
-                        //API role and simple instruction
-                        text = $"You are a healthcare assistant. Provide a medically accurate and easy-to-understand response to this query: \"{question}\". Your response should be structured in a very brief and conversative manner, including possible causes, symptoms, and recommended actions such as home remedies or when to seek medical attention at house of therapy."
+                        var parsed = JObject.Parse(responseBody);
+                        return parsed["candidates"]?[0]?["content"]?["parts"]?[0]?["text"]?.ToString()
+                               ?? "No response received.";
+                    }
+                    else
+                    {
+                        return $"Error: {response.StatusCode}\n{responseBody}";
                     }
                 }
             }
-                }
-            };
-            // convertiing the request into json format
-            var content = new StringContent(JsonConvert.SerializeObject(requestData), Encoding.UTF8, "application/json");
+        }
 
-            // Send the request to the AI API using the API key
-            var response = await client.PostAsync($"?key=AIzaSyBCpiWtuAwcY_KIpoupl1ad4X8CqSAhddg", content);
-
-            // checking is OperationTrue
-            if (response.IsSuccessStatusCode)
-            {
-                var jsonResponse = await response.Content.ReadAsStringAsync();
-                var parsedResponse = JObject.Parse(jsonResponse);
-
-                var text = parsedResponse["candidates"]?[0]?["content"]?["parts"]?[0]?["text"]?.ToString();
-
-                return text ?? "I'm unable to assist at the moment. Please contact us at hooftherapy@gmail.com.";
-            }
-            else
-            {
-                return $"Error: {response.StatusCode} - {response.ReasonPhrase}";
-            }
+        private void AI_Load(object sender, EventArgs e)
+        {
+            username.Text = Login.loggedUser;
         }
 
         private void Homebtn_Click(object sender, EventArgs e)
@@ -138,37 +143,31 @@ namespace Mind_care
             p.Show();
         }
 
-        private void AI_Load(object sender, EventArgs e)
-        {
-            username.Text = Login.loggedUser;
-        }
-
         private void Lohout_Click(object sender, EventArgs e)
         {
             this.Hide();
             Login l = new Login();
             l.Show();
-
         }
-
-
-        //private void txtQuestion_Enter(object sender, EventArgs e)
-        //{
-        //    //operationFalse
-        //    if (txtQuestion.Text == "Type your question here...")
-        //    {
-        //        txtQuestion.Text = "";
-        //        txtQuestion.ForeColor = Color.Black;
-        //    }
-        //}
-
-        //private void txtQuestion_Leave(object sender, EventArgs e)
-        //{
-        //    if (string.IsNullOrWhiteSpace(txtQuestion.Text))
-        //    {
-        //        txtQuestion.Text = "Type your question here...";
-        //        txtQuestion.ForeColor = Color.Gray;
-        //    }
-        //}
     }
+
+
+    //private void txtQuestion_Enter(object sender, EventArgs e)
+    //{
+    //    //operationFalse
+    //    if (txtQuestion.Text == "Type your question here...")
+    //    {
+    //        txtQuestion.Text = "";
+    //        txtQuestion.ForeColor = Color.Black;
+    //    }
+    //}
+
+    //private void txtQuestion_Leave(object sender, EventArgs e)
+    //{
+    //    if (string.IsNullOrWhiteSpace(txtQuestion.Text))
+    //    {
+    //        txtQuestion.Text = "Type your question here...";
+    //        txtQuestion.ForeColor = Color.Gray;
+    //    }
+    //}
 }

@@ -1,289 +1,104 @@
-C:\Users\angan\Desktop\Project\Mind care\bin\Debug\Mind care.exe.config
-C:\Users\angan\Desktop\Project\Mind care\bin\Debug\Mind care.exe
-C:\Users\angan\Desktop\Project\Mind care\bin\Debug\Mind care.pdb
-C:\Users\angan\Desktop\Project\Mind care\obj\Debug\Mind care.csproj.AssemblyReference.cache
-C:\Users\angan\Desktop\Project\Mind care\obj\Debug\Mind_care.Properties.Resources.resources
-C:\Users\angan\Desktop\Project\Mind care\obj\Debug\Mind care.csproj.GenerateResource.cache
-C:\Users\angan\Desktop\Project\Mind care\obj\Debug\Mind care.csproj.CoreCompileInputs.cache
-C:\Users\angan\Desktop\Project\Mind care\obj\Debug\Mind care.exe
-C:\Users\angan\Desktop\Project\Mind care\obj\Debug\Mind care.pdb
-C:\Users\angan\Desktop\Project\Mind care\bin\Debug\MySql.Data (1).dll
-C:\Users\angan\Desktop\Project\Mind care\obj\Debug\Mind_care.AI.resources
-C:\Users\angan\Desktop\Project\Mind care\obj\Debug\Mind_care.Login.resources
-C:\Users\angan\Desktop\Project\Mind care\obj\Debug\Mind_care.Register.resources
-C:\Users\angan\Desktop\Project\Mind care\obj\Debug\Mind care.csproj.Up2Date
-C:\Users\lacso\source\repos\Mind care\bin\Debug\Mind care.exe.config
-C:\Users\lacso\source\repos\Mind care\bin\Debug\Mind care.exe
-C:\Users\lacso\source\repos\Mind care\bin\Debug\Mind care.pdb
-C:\Users\lacso\source\repos\Mind care\obj\Debug\Mind care.csproj.AssemblyReference.cache
-C:\Users\lacso\source\repos\Mind care\obj\Debug\Mind_care.AI.resources
-C:\Users\lacso\source\repos\Mind care\obj\Debug\Mind_care.Login.resources
-C:\Users\lacso\source\repos\Mind care\obj\Debug\Mind_care.Properties.Resources.resources
-C:\Users\lacso\source\repos\Mind care\obj\Debug\Mind_care.Register.resources
-C:\Users\lacso\source\repos\Mind care\obj\Debug\Mind care.csproj.GenerateResource.cache
-C:\Users\lacso\source\repos\Mind care\obj\Debug\Mind care.csproj.CoreCompileInputs.cache
-C:\Users\lacso\source\repos\Mind care\obj\Debug\Mind care.csproj.Up2Date
-C:\Users\lacso\source\repos\Mind care\obj\Debug\Mind care.exe
-C:\Users\lacso\source\repos\Mind care\obj\Debug\Mind care.pdb
-C:\Users\lacso\source\repos\Mind care\bin\Debug\Newtonsoft.Json.dll
-C:\Users\lacso\source\repos\Mind care\bin\Debug\Newtonsoft.Json.xml
-C:\Users\angan\Desktop\Mind care\bin\Debug\Mind care.exe.config
-C:\Users\angan\Desktop\Mind care\bin\Debug\Mind care.exe
-C:\Users\angan\Desktop\Mind care\bin\Debug\Mind care.pdb
-C:\Users\angan\Desktop\Mind care\bin\Debug\Newtonsoft.Json.dll
-C:\Users\angan\Desktop\Mind care\bin\Debug\Newtonsoft.Json.xml
-C:\Users\angan\Desktop\Mind care\obj\Debug\Mind care.csproj.AssemblyReference.cache
-C:\Users\angan\Desktop\Mind care\obj\Debug\Mind_care.AI.resources
-C:\Users\angan\Desktop\Mind care\obj\Debug\Mind_care.Login.resources
-C:\Users\angan\Desktop\Mind care\obj\Debug\Mind_care.Properties.Resources.resources
-C:\Users\angan\Desktop\Mind care\obj\Debug\Mind_care.Register.resources
-C:\Users\angan\Desktop\Mind care\obj\Debug\Mind care.csproj.GenerateResource.cache
-C:\Users\angan\Desktop\Mind care\obj\Debug\Mind care.csproj.CoreCompileInputs.cache
-C:\Users\angan\Desktop\Mind care\obj\Debug\Mind care.csproj.Up2Date
-C:\Users\angan\Desktop\Mind care\obj\Debug\Mind care.exe
-C:\Users\angan\Desktop\Mind care\obj\Debug\Mind care.pdb
-C:\Users\angan\Desktop\Mind care\obj\Debug\Mind_care.Mood_tracking.resources
-C:\Users\angan\Desktop\Mind care\obj\Debug\Mind_care.projectspace.resources
-C:\Users\angan\Desktop\Mind care\obj\Debug\Mind_care.Suicide_hotline.resources
-C:\Users\angan\Desktop\Mind care\bin\Debug\BouncyCastle.Cryptography.dll
-C:\Users\angan\Desktop\Mind care\bin\Debug\Google.Protobuf.dll
-C:\Users\angan\Desktop\Mind care\bin\Debug\K4os.Compression.LZ4.dll
-C:\Users\angan\Desktop\Mind care\bin\Debug\K4os.Compression.LZ4.Streams.dll
-C:\Users\angan\Desktop\Mind care\bin\Debug\K4os.Hash.xxHash.dll
-C:\Users\angan\Desktop\Mind care\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\angan\Desktop\Mind care\bin\Debug\MySql.Data.dll
-C:\Users\angan\Desktop\Mind care\bin\Debug\System.Buffers.dll
-C:\Users\angan\Desktop\Mind care\bin\Debug\System.Configuration.ConfigurationManager.dll
-C:\Users\angan\Desktop\Mind care\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-C:\Users\angan\Desktop\Mind care\bin\Debug\System.IO.Pipelines.dll
-C:\Users\angan\Desktop\Mind care\bin\Debug\System.Memory.dll
-C:\Users\angan\Desktop\Mind care\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\angan\Desktop\Mind care\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\angan\Desktop\Mind care\bin\Debug\System.Threading.Tasks.Extensions.dll
-C:\Users\angan\Desktop\Mind care\bin\Debug\ZstdSharp.dll
-C:\Users\angan\Desktop\Mind care\bin\Debug\BouncyCastle.Cryptography.xml
-C:\Users\angan\Desktop\Mind care\bin\Debug\Google.Protobuf.pdb
-C:\Users\angan\Desktop\Mind care\bin\Debug\Google.Protobuf.xml
-C:\Users\angan\Desktop\Mind care\bin\Debug\K4os.Compression.LZ4.xml
-C:\Users\angan\Desktop\Mind care\bin\Debug\K4os.Compression.LZ4.Streams.xml
-C:\Users\angan\Desktop\Mind care\bin\Debug\K4os.Hash.xxHash.xml
-C:\Users\angan\Desktop\Mind care\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-C:\Users\angan\Desktop\Mind care\bin\Debug\MySql.Data.xml
-C:\Users\angan\Desktop\Mind care\bin\Debug\System.Buffers.xml
-C:\Users\angan\Desktop\Mind care\bin\Debug\System.Configuration.ConfigurationManager.xml
-C:\Users\angan\Desktop\Mind care\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-C:\Users\angan\Desktop\Mind care\bin\Debug\System.IO.Pipelines.xml
-C:\Users\angan\Desktop\Mind care\bin\Debug\System.Memory.xml
-C:\Users\angan\Desktop\Mind care\bin\Debug\System.Numerics.Vectors.xml
-C:\Users\angan\Desktop\Mind care\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\angan\Desktop\Mind care\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\angan\Desktop\Mind care\obj\Debug\Mind_care.Analytics.resources
-C:\Users\angan\Desktop\Mind care\obj\Debug\Mind_care.Chat.resources
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\Mind care.exe.config
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\Mind care.exe
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\Mind care.pdb
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\BouncyCastle.Cryptography.dll
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\Google.Protobuf.dll
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\K4os.Compression.LZ4.dll
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\K4os.Compression.LZ4.Streams.dll
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\K4os.Hash.xxHash.dll
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\MySql.Data.dll
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\Newtonsoft.Json.dll
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\System.Buffers.dll
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\System.Configuration.ConfigurationManager.dll
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\System.IO.Pipelines.dll
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\System.Memory.dll
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\System.Threading.Tasks.Extensions.dll
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\ZstdSharp.dll
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\BouncyCastle.Cryptography.xml
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\Google.Protobuf.pdb
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\Google.Protobuf.xml
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\K4os.Compression.LZ4.xml
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\K4os.Compression.LZ4.Streams.xml
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\K4os.Hash.xxHash.xml
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\MySql.Data.xml
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\Newtonsoft.Json.xml
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\System.Buffers.xml
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\System.Configuration.ConfigurationManager.xml
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\System.IO.Pipelines.xml
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\System.Memory.xml
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\System.Numerics.Vectors.xml
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\lacso\Documents\maths\Mind care\Mind care\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\lacso\Documents\maths\Mind care\Mind care\obj\Debug\Mind care.csproj.AssemblyReference.cache
-C:\Users\lacso\Documents\maths\Mind care\Mind care\obj\Debug\Mind_care.AI.resources
-C:\Users\lacso\Documents\maths\Mind care\Mind care\obj\Debug\Mind_care.Analytics.resources
-C:\Users\lacso\Documents\maths\Mind care\Mind care\obj\Debug\Mind_care.Chat.resources
-C:\Users\lacso\Documents\maths\Mind care\Mind care\obj\Debug\Mind_care.Login.resources
-C:\Users\lacso\Documents\maths\Mind care\Mind care\obj\Debug\Mind_care.Mood_tracking.resources
-C:\Users\lacso\Documents\maths\Mind care\Mind care\obj\Debug\Mind_care.projectspace.resources
-C:\Users\lacso\Documents\maths\Mind care\Mind care\obj\Debug\Mind_care.Properties.Resources.resources
-C:\Users\lacso\Documents\maths\Mind care\Mind care\obj\Debug\Mind_care.Register.resources
-C:\Users\lacso\Documents\maths\Mind care\Mind care\obj\Debug\Mind_care.Suicide_hotline.resources
-C:\Users\lacso\Documents\maths\Mind care\Mind care\obj\Debug\Mind care.csproj.GenerateResource.cache
-C:\Users\lacso\Documents\maths\Mind care\Mind care\obj\Debug\Mind care.csproj.CoreCompileInputs.cache
-C:\Users\lacso\Documents\maths\Mind care\Mind care\obj\Debug\Mind care.csproj.Up2Date
-C:\Users\lacso\Documents\maths\Mind care\Mind care\obj\Debug\Mind care.exe
-C:\Users\lacso\Documents\maths\Mind care\Mind care\obj\Debug\Mind care.pdb
-D:\Mind care\Mind care\bin\Debug\Mind care.exe.config
-D:\Mind care\Mind care\bin\Debug\Mind care.exe
-D:\Mind care\Mind care\bin\Debug\Mind care.pdb
-D:\Mind care\Mind care\bin\Debug\BouncyCastle.Cryptography.dll
-D:\Mind care\Mind care\bin\Debug\Google.Protobuf.dll
-D:\Mind care\Mind care\bin\Debug\K4os.Compression.LZ4.dll
-D:\Mind care\Mind care\bin\Debug\K4os.Compression.LZ4.Streams.dll
-D:\Mind care\Mind care\bin\Debug\K4os.Hash.xxHash.dll
-D:\Mind care\Mind care\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Mind care\Mind care\bin\Debug\MySql.Data.dll
-D:\Mind care\Mind care\bin\Debug\Newtonsoft.Json.dll
-D:\Mind care\Mind care\bin\Debug\System.Buffers.dll
-D:\Mind care\Mind care\bin\Debug\System.Configuration.ConfigurationManager.dll
-D:\Mind care\Mind care\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-D:\Mind care\Mind care\bin\Debug\System.IO.Pipelines.dll
-D:\Mind care\Mind care\bin\Debug\System.Memory.dll
-D:\Mind care\Mind care\bin\Debug\System.Numerics.Vectors.dll
-D:\Mind care\Mind care\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-D:\Mind care\Mind care\bin\Debug\System.Threading.Tasks.Extensions.dll
-D:\Mind care\Mind care\bin\Debug\ZstdSharp.dll
-D:\Mind care\Mind care\bin\Debug\BouncyCastle.Cryptography.xml
-D:\Mind care\Mind care\bin\Debug\Google.Protobuf.pdb
-D:\Mind care\Mind care\bin\Debug\Google.Protobuf.xml
-D:\Mind care\Mind care\bin\Debug\K4os.Compression.LZ4.xml
-D:\Mind care\Mind care\bin\Debug\K4os.Compression.LZ4.Streams.xml
-D:\Mind care\Mind care\bin\Debug\K4os.Hash.xxHash.xml
-D:\Mind care\Mind care\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-D:\Mind care\Mind care\bin\Debug\MySql.Data.xml
-D:\Mind care\Mind care\bin\Debug\Newtonsoft.Json.xml
-D:\Mind care\Mind care\bin\Debug\System.Buffers.xml
-D:\Mind care\Mind care\bin\Debug\System.Configuration.ConfigurationManager.xml
-D:\Mind care\Mind care\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-D:\Mind care\Mind care\bin\Debug\System.IO.Pipelines.xml
-D:\Mind care\Mind care\bin\Debug\System.Memory.xml
-D:\Mind care\Mind care\bin\Debug\System.Numerics.Vectors.xml
-D:\Mind care\Mind care\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-D:\Mind care\Mind care\bin\Debug\System.Threading.Tasks.Extensions.xml
-D:\Mind care\Mind care\obj\Debug\Mind care.csproj.AssemblyReference.cache
-D:\Mind care\Mind care\obj\Debug\Mind_care.AI.resources
-D:\Mind care\Mind care\obj\Debug\Mind_care.Analytics.resources
-D:\Mind care\Mind care\obj\Debug\Mind_care.Chat.resources
-D:\Mind care\Mind care\obj\Debug\Mind_care.Login.resources
-D:\Mind care\Mind care\obj\Debug\Mind_care.Mood_tracking.resources
-D:\Mind care\Mind care\obj\Debug\Mind_care.projectspace.resources
-D:\Mind care\Mind care\obj\Debug\Mind_care.Properties.Resources.resources
-D:\Mind care\Mind care\obj\Debug\Mind_care.Register.resources
-D:\Mind care\Mind care\obj\Debug\Mind_care.Suicide_hotline.resources
-D:\Mind care\Mind care\obj\Debug\Mind care.csproj.GenerateResource.cache
-D:\Mind care\Mind care\obj\Debug\Mind care.csproj.CoreCompileInputs.cache
-D:\Mind care\Mind care\obj\Debug\Mind care.csproj.Up2Date
-D:\Mind care\Mind care\obj\Debug\Mind care.exe
-D:\Mind care\Mind care\obj\Debug\Mind care.pdb
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\Mind care.exe.config
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\Mind care.exe
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\Mind care.pdb
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\BouncyCastle.Cryptography.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\Google.Protobuf.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\K4os.Compression.LZ4.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\K4os.Compression.LZ4.Streams.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\K4os.Hash.xxHash.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\MySql.Data.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\Newtonsoft.Json.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\System.Buffers.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\System.Configuration.ConfigurationManager.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\System.IO.Pipelines.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\System.Memory.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\System.Threading.Tasks.Extensions.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\ZstdSharp.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\BouncyCastle.Cryptography.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\Google.Protobuf.pdb
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\Google.Protobuf.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\K4os.Compression.LZ4.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\K4os.Compression.LZ4.Streams.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\K4os.Hash.xxHash.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\MySql.Data.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\Newtonsoft.Json.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\System.Buffers.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\System.Configuration.ConfigurationManager.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\System.IO.Pipelines.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\System.Memory.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\System.Numerics.Vectors.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\obj\Debug\Mind care.csproj.AssemblyReference.cache
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\obj\Debug\Mind_care.AI.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\obj\Debug\Mind_care.Analytics.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\obj\Debug\Mind_care.Chat.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\obj\Debug\Mind_care.Login.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\obj\Debug\Mind_care.Mood_tracking.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\obj\Debug\Mind_care.projectspace.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\obj\Debug\Mind_care.Properties.Resources.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\obj\Debug\Mind_care.Register.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\obj\Debug\Mind_care.Suicide_hotline.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\obj\Debug\Mind care.csproj.GenerateResource.cache
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\obj\Debug\Mind care.csproj.CoreCompileInputs.cache
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\obj\Debug\Mind care.csproj.Up2Date
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\obj\Debug\Mind care.exe
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\Mind care\obj\Debug\Mind care.pdb
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\Mind care.exe.config
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\Mind care.exe
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\Mind care.pdb
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\BouncyCastle.Cryptography.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\Google.Protobuf.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\K4os.Compression.LZ4.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\K4os.Compression.LZ4.Streams.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\K4os.Hash.xxHash.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\MySql.Data.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\Newtonsoft.Json.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\System.Buffers.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\System.Configuration.ConfigurationManager.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\System.IO.Pipelines.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\System.Memory.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\System.Threading.Tasks.Extensions.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\ZstdSharp.dll
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\BouncyCastle.Cryptography.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\Google.Protobuf.pdb
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\Google.Protobuf.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\K4os.Compression.LZ4.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\K4os.Compression.LZ4.Streams.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\K4os.Hash.xxHash.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\MySql.Data.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\Newtonsoft.Json.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\System.Buffers.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\System.Configuration.ConfigurationManager.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\System.IO.Pipelines.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\System.Memory.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\System.Numerics.Vectors.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\obj\Debug\Mind care.csproj.AssemblyReference.cache
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\obj\Debug\Mind_care.AI.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\obj\Debug\Mind_care.Analytics.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\obj\Debug\Mind_care.Chat.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\obj\Debug\Mind_care.Login.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\obj\Debug\Mind_care.Mood_tracking.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\obj\Debug\Mind_care.projectspace.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\obj\Debug\Mind_care.Properties.Resources.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\obj\Debug\Mind_care.Register.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\obj\Debug\Mind_care.Suicide_hotline.resources
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\obj\Debug\Mind care.csproj.GenerateResource.cache
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\obj\Debug\Mind care.csproj.CoreCompileInputs.cache
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\obj\Debug\Mind care.csproj.Up2Date
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\obj\Debug\Mind care.exe
-C:\Users\angan\Documents\Dissertation\001429608_COMP 1682_PROTOTYPE\Mind care\obj\Debug\Mind care.pdb
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\Mind care.exe.config
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\Mind care.exe
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\Mind care.pdb
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\Google.Protobuf.dll
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\MySql.Data.dll
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\System.Buffers.dll
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\System.IO.Pipelines.dll
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\System.Memory.dll
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\ZstdSharp.dll
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\Google.Protobuf.pdb
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\Google.Protobuf.xml
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\MySql.Data.xml
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\System.Buffers.xml
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\System.IO.Pipelines.xml
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\System.Memory.xml
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lacso\source\repos\Mind-Care-Desktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lacso\source\repos\Mind-Care-Desktop\obj\Debug\Mind care.csproj.AssemblyReference.cache
+C:\Users\lacso\source\repos\Mind-Care-Desktop\obj\Debug\Mind_care.AI.resources
+C:\Users\lacso\source\repos\Mind-Care-Desktop\obj\Debug\Mind_care.Analytics.resources
+C:\Users\lacso\source\repos\Mind-Care-Desktop\obj\Debug\Mind_care.Chat.resources
+C:\Users\lacso\source\repos\Mind-Care-Desktop\obj\Debug\Mind_care.Login.resources
+C:\Users\lacso\source\repos\Mind-Care-Desktop\obj\Debug\Mind_care.Mood_tracking.resources
+C:\Users\lacso\source\repos\Mind-Care-Desktop\obj\Debug\Mind_care.projectspace.resources
+C:\Users\lacso\source\repos\Mind-Care-Desktop\obj\Debug\Mind_care.Properties.Resources.resources
+C:\Users\lacso\source\repos\Mind-Care-Desktop\obj\Debug\Mind_care.Register.resources
+C:\Users\lacso\source\repos\Mind-Care-Desktop\obj\Debug\Mind_care.Suicide_hotline.resources
+C:\Users\lacso\source\repos\Mind-Care-Desktop\obj\Debug\Mind care.csproj.GenerateResource.cache
+C:\Users\lacso\source\repos\Mind-Care-Desktop\obj\Debug\Mind care.csproj.CoreCompileInputs.cache
+C:\Users\lacso\source\repos\Mind-Care-Desktop\obj\Debug\Mind care.csproj.Up2Date
+C:\Users\lacso\source\repos\Mind-Care-Desktop\obj\Debug\Mind care.exe
+C:\Users\lacso\source\repos\Mind-Care-Desktop\obj\Debug\Mind care.pdb
+C:\Users\lacso\Git\Mind-Care-Desktop\obj\Debug\Mind care.csproj.AssemblyReference.cache
+C:\Users\lacso\Git\Mind-Care-Desktop\obj\Debug\Mind_care.AI.resources
+C:\Users\lacso\Git\Mind-Care-Desktop\obj\Debug\Mind_care.Analytics.resources
+C:\Users\lacso\Git\Mind-Care-Desktop\obj\Debug\Mind_care.Chat.resources
+C:\Users\lacso\Git\Mind-Care-Desktop\obj\Debug\Mind_care.Login.resources
+C:\Users\lacso\Git\Mind-Care-Desktop\obj\Debug\Mind_care.Mood_tracking.resources
+C:\Users\lacso\Git\Mind-Care-Desktop\obj\Debug\Mind_care.projectspace.resources
+C:\Users\lacso\Git\Mind-Care-Desktop\obj\Debug\Mind_care.Properties.Resources.resources
+C:\Users\lacso\Git\Mind-Care-Desktop\obj\Debug\Mind_care.Register.resources
+C:\Users\lacso\Git\Mind-Care-Desktop\obj\Debug\Mind_care.Suicide_hotline.resources
+C:\Users\lacso\Git\Mind-Care-Desktop\obj\Debug\Mind care.csproj.GenerateResource.cache
+C:\Users\lacso\Git\Mind-Care-Desktop\obj\Debug\Mind care.csproj.CoreCompileInputs.cache
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\Mind care.exe.config
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\Mind care.exe
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\Mind care.pdb
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\Google.Protobuf.dll
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\MySql.Data.dll
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\System.Buffers.dll
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\System.IO.Pipelines.dll
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\System.Memory.dll
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\ZstdSharp.dll
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\Google.Protobuf.pdb
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\Google.Protobuf.xml
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\MySql.Data.xml
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\System.Buffers.xml
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\System.IO.Pipelines.xml
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\System.Memory.xml
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lacso\Git\Mind-Care-Desktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lacso\Git\Mind-Care-Desktop\obj\Debug\Mind care.csproj.Up2Date
+C:\Users\lacso\Git\Mind-Care-Desktop\obj\Debug\Mind care.exe
+C:\Users\lacso\Git\Mind-Care-Desktop\obj\Debug\Mind care.pdb

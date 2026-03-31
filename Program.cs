@@ -16,7 +16,7 @@ namespace Mind_care
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Register());
+            Application.Run(new AI());
         }
     }
 }
